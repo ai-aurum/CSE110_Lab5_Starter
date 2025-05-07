@@ -1,7 +1,8 @@
 # Lab 5 - Starter
 Aldrin Ilagan
 
-[Expose Section](https://ai-aurum.github.io/CSE110_Lab5_Starter/expose.html)
+[Expose Link](https://ai-aurum.github.io/CSE110_Lab5_Starter/expose.html)
+[Explore Link](https://ai-aurum.github.io/CSE110_Lab5_Starter/explore.html)
 
 ## Explore Section
 
